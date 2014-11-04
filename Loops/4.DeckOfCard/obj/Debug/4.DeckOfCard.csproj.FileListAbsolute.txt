@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\Loops\4.DeckOfCard\bin\Debug\4.DeckOfCard.exe
+D:\Other\Soft Uni\Homework\Loops\4.DeckOfCard\bin\Debug\4.DeckOfCard.pdb
+D:\Other\Soft Uni\Homework\Loops\4.DeckOfCard\obj\Debug\4.DeckOfCard.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\Loops\4.DeckOfCard\obj\Debug\4.DeckOfCard.exe
+D:\Other\Soft Uni\Homework\Loops\4.DeckOfCard\obj\Debug\4.DeckOfCard.pdb

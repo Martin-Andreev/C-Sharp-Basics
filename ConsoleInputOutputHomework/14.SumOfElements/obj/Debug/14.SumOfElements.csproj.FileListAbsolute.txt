@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\14.SumOfElements\bin\Debug\14.SumOfElements.exe
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\14.SumOfElements\bin\Debug\14.SumOfElements.pdb
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\14.SumOfElements\obj\Debug\14.SumOfElements.exe
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\14.SumOfElements\obj\Debug\14.SumOfElements.pdb

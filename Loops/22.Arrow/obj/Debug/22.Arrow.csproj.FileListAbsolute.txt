@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\Loops\22.Arrow\bin\Debug\22.Arrow.exe
+D:\Other\Soft Uni\Homework\Loops\22.Arrow\bin\Debug\22.Arrow.pdb
+D:\Other\Soft Uni\Homework\Loops\22.Arrow\obj\Debug\22.Arrow.exe
+D:\Other\Soft Uni\Homework\Loops\22.Arrow\obj\Debug\22.Arrow.pdb

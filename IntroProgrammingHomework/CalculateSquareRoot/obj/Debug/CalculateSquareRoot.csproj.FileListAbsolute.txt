@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.pdb
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.exe
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.pdb

@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\DeclareStringAndObject\bin\Debug\DeclareStringAndObject.exe.config
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\DeclareStringAndObject\bin\Debug\DeclareStringAndObject.exe
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\DeclareStringAndObject\bin\Debug\DeclareStringAndObject.pdb
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\DeclareStringAndObject\obj\Debug\DeclareStringAndObject.exe
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\DeclareStringAndObject\obj\Debug\DeclareStringAndObject.pdb

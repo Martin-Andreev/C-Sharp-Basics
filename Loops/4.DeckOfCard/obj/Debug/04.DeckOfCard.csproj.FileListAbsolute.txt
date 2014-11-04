@@ -1,0 +1,2 @@
+D:\Other\Soft Uni\Homework\Loops\4.DeckOfCard\obj\Debug\4.DeckOfCard.exe
+D:\Other\Soft Uni\Homework\Loops\4.DeckOfCard\obj\Debug\4.DeckOfCard.pdb

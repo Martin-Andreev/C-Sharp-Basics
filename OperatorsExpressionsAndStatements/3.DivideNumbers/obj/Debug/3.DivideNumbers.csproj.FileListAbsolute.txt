@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\3.DivideNumbers\bin\Debug\3.DivideNumbers.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\3.DivideNumbers\bin\Debug\3.DivideNumbers.pdb
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\3.DivideNumbers\obj\Debug\3.DivideNumbers.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\3.DivideNumbers\obj\Debug\3.DivideNumbers.pdb

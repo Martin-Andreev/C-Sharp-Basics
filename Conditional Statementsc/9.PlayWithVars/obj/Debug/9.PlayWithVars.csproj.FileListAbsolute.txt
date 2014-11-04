@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\Conditional Statementsc\9.PlayWithVars\bin\Debug\9.PlayWithVars.exe
+D:\Other\Soft Uni\Homework\Conditional Statementsc\9.PlayWithVars\bin\Debug\9.PlayWithVars.pdb
+D:\Other\Soft Uni\Homework\Conditional Statementsc\9.PlayWithVars\obj\Debug\9.PlayWithVars.exe
+D:\Other\Soft Uni\Homework\Conditional Statementsc\9.PlayWithVars\obj\Debug\9.PlayWithVars.pdb

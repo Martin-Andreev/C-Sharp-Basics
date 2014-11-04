@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\5.SortingNumbers\obj\Debug\5.SortingNumbers.exe
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\5.SortingNumbers\obj\Debug\5.SortingNumbers.pdb
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\5.SortingNumbers\bin\Debug\5.SortingNumbers.exe
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\5.SortingNumbers\bin\Debug\5.SortingNumbers.pdb
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\5.SortingNumbers\obj\Debug\05.SortingNumbers.csprojResolveAssemblyReference.cache

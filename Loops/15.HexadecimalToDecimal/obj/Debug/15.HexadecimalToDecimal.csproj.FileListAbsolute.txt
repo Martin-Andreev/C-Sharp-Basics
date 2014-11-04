@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\Loops\15.HexadecimalToDecimal\bin\Debug\15.HexadecimalToDecimal.exe
+D:\Other\Soft Uni\Homework\Loops\15.HexadecimalToDecimal\bin\Debug\15.HexadecimalToDecimal.pdb
+D:\Other\Soft Uni\Homework\Loops\15.HexadecimalToDecimal\obj\Debug\15.HexadecimalToDecimal.exe
+D:\Other\Soft Uni\Homework\Loops\15.HexadecimalToDecimal\obj\Debug\15.HexadecimalToDecimal.pdb

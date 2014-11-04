@@ -1,0 +1,1 @@
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\03.PrimesInRange\bin\Debug\03.PrimesInRange.exe.config

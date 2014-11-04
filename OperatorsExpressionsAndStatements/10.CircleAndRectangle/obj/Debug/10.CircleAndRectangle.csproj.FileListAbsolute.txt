@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\10.CircleAndRectangle\bin\Debug\10.CircleAndRectangle.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\10.CircleAndRectangle\bin\Debug\10.CircleAndRectangle.pdb
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\10.CircleAndRectangle\obj\Debug\10.CircleAndRectangle.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\10.CircleAndRectangle\obj\Debug\10.CircleAndRectangle.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\10.CircleAndRectangle\obj\Debug\10.CircleAndRectangle.pdb

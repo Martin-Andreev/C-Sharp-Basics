@@ -1,0 +1,1 @@
+The .NET Framework is an application development platform that provides services for building, deploying, and running desktop, web, and phone applications and web services. C# is a strong Object Oriented programming language. It is designed for building a variety of applications that run on the .NET Framework.

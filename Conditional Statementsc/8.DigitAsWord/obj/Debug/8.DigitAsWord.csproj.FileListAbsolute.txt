@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\Conditional Statementsc\8.DigitAsWord\bin\Debug\8.DigitAsWord.exe
+D:\Other\Soft Uni\Homework\Conditional Statementsc\8.DigitAsWord\bin\Debug\8.DigitAsWord.pdb
+D:\Other\Soft Uni\Homework\Conditional Statementsc\8.DigitAsWord\obj\Debug\8.DigitAsWord.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\Conditional Statementsc\8.DigitAsWord\obj\Debug\8.DigitAsWord.exe
+D:\Other\Soft Uni\Homework\Conditional Statementsc\8.DigitAsWord\obj\Debug\8.DigitAsWord.pdb

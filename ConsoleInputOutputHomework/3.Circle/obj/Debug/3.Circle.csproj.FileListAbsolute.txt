@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\3.Circle\bin\Debug\3.Circle.exe
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\3.Circle\bin\Debug\3.Circle.pdb
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\3.Circle\obj\Debug\3.Circle.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\3.Circle\obj\Debug\3.Circle.exe
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\3.Circle\obj\Debug\3.Circle.pdb

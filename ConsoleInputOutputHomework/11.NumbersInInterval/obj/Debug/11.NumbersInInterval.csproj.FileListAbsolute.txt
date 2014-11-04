@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\11.NumbersInInterval\bin\Debug\11.NumbersInInterval.exe
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\11.NumbersInInterval\bin\Debug\11.NumbersInInterval.pdb
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\11.NumbersInInterval\obj\Debug\11.NumbersInInterval.exe
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\11.NumbersInInterval\obj\Debug\11.NumbersInInterval.pdb

@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\Conditional Statementsc\14.Pairs\bin\Debug\14.Pairs.exe
+D:\Other\Soft Uni\Homework\Conditional Statementsc\14.Pairs\bin\Debug\14.Pairs.pdb
+D:\Other\Soft Uni\Homework\Conditional Statementsc\14.Pairs\obj\Debug\14.Pairs.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\Conditional Statementsc\14.Pairs\obj\Debug\14.Pairs.exe
+D:\Other\Soft Uni\Homework\Conditional Statementsc\14.Pairs\obj\Debug\14.Pairs.pdb

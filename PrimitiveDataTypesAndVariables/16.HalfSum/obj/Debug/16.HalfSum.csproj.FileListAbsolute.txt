@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\16.HalfSum\bin\Debug\16.HalfSum.exe
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\16.HalfSum\bin\Debug\16.HalfSum.pdb
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\16.HalfSum\obj\Debug\16.HalfSum.exe
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\16.HalfSum\obj\Debug\16.HalfSum.pdb

@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\7.CirclePoint\bin\Debug\7.CirclePoint.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\7.CirclePoint\bin\Debug\7.CirclePoint.pdb
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\7.CirclePoint\obj\Debug\7.CirclePoint.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\7.CirclePoint\obj\Debug\7.CirclePoint.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\7.CirclePoint\obj\Debug\7.CirclePoint.pdb

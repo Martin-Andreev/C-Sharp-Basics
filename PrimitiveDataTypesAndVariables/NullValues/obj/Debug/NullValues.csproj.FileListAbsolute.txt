@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\NullValues\bin\Debug\NullValues.exe
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\NullValues\bin\Debug\NullValues.pdb
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\NullValues\obj\Debug\NullValues.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\NullValues\obj\Debug\NullValues.exe
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\NullValues\obj\Debug\NullValues.pdb

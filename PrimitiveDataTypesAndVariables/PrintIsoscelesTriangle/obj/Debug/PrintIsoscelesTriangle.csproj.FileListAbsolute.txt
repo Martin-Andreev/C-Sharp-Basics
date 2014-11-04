@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\PrintIsoscelesTriangle\bin\Debug\PrintIsoscelesTriangle.exe
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\PrintIsoscelesTriangle\bin\Debug\PrintIsoscelesTriangle.pdb
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\PrintIsoscelesTriangle\obj\Debug\PrintIsoscelesTriangle.exe
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\PrintIsoscelesTriangle\obj\Debug\PrintIsoscelesTriangle.pdb
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\PrintIsoscelesTriangle\obj\Debug\PrintIsoscelesTriangle.csprojResolveAssemblyReference.cache

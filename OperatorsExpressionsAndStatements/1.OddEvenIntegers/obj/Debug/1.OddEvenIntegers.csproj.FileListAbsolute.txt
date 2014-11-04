@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\1.OddEvenIntegers\bin\Debug\1.OddEvenIntegers.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\1.OddEvenIntegers\bin\Debug\1.OddEvenIntegers.pdb
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\1.OddEvenIntegers\obj\Debug\1.OddEvenIntegers.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\1.OddEvenIntegers\obj\Debug\1.OddEvenIntegers.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\1.OddEvenIntegers\obj\Debug\1.OddEvenIntegers.pdb

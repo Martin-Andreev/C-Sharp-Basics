@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\Loops\9.MatrixOfNumbers\bin\Debug\9.MatrixOfNumbers.exe
+D:\Other\Soft Uni\Homework\Loops\9.MatrixOfNumbers\bin\Debug\9.MatrixOfNumbers.pdb
+D:\Other\Soft Uni\Homework\Loops\9.MatrixOfNumbers\obj\Debug\9.MatrixOfNumbers.exe
+D:\Other\Soft Uni\Homework\Loops\9.MatrixOfNumbers\obj\Debug\9.MatrixOfNumbers.pdb

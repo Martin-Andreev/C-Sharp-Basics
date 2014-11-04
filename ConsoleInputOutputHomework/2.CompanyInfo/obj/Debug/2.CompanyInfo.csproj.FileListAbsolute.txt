@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\2.CompanyInfo\bin\Debug\2.CompanyInfo.exe
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\2.CompanyInfo\bin\Debug\2.CompanyInfo.pdb
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\2.CompanyInfo\obj\Debug\2.CompanyInfo.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\2.CompanyInfo\obj\Debug\2.CompanyInfo.exe
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\2.CompanyInfo\obj\Debug\2.CompanyInfo.pdb

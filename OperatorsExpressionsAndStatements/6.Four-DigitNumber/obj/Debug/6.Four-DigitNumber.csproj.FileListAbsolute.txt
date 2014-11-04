@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\6.Four-DigitNumber\bin\Debug\6.Four-DigitNumber.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\6.Four-DigitNumber\bin\Debug\6.Four-DigitNumber.pdb
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\6.Four-DigitNumber\obj\Debug\6.Four-DigitNumber.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\6.Four-DigitNumber\obj\Debug\6.Four-DigitNumber.pdb
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\6.Four-DigitNumber\obj\Debug\6.Four-DigitNumber.csprojResolveAssemblyReference.cache

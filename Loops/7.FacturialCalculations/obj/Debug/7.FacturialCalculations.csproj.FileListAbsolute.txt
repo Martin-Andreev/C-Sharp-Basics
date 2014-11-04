@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\Loops\7.FacturialCalculations\bin\Debug\7.FacturialCalculations.exe.config
+D:\Other\Soft Uni\Homework\Loops\7.FacturialCalculations\bin\Debug\7.FacturialCalculations.exe
+D:\Other\Soft Uni\Homework\Loops\7.FacturialCalculations\bin\Debug\7.FacturialCalculations.pdb
+D:\Other\Soft Uni\Homework\Loops\7.FacturialCalculations\obj\Debug\7.FacturialCalculations.exe
+D:\Other\Soft Uni\Homework\Loops\7.FacturialCalculations\obj\Debug\7.FacturialCalculations.pdb

@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\11.CountОfLetters\bin\Debug\11.CountОfLetters.exe
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\11.CountОfLetters\bin\Debug\11.CountОfLetters.pdb
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\11.CountОfLetters\obj\Debug\11.CountОfLetters.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\11.CountОfLetters\obj\Debug\11.CountОfLetters.exe
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\11.CountОfLetters\obj\Debug\11.CountОfLetters.pdb

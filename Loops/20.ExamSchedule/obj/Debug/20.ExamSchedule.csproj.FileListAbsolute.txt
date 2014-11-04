@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\Loops\20.ExamSchedule\bin\Debug\20.ExamSchedule.exe
+D:\Other\Soft Uni\Homework\Loops\20.ExamSchedule\bin\Debug\20.ExamSchedule.pdb
+D:\Other\Soft Uni\Homework\Loops\20.ExamSchedule\obj\Debug\20.ExamSchedule.exe
+D:\Other\Soft Uni\Homework\Loops\20.ExamSchedule\obj\Debug\20.ExamSchedule.pdb

@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\13.BitChecks\bin\Debug\13.BitChecks.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\13.BitChecks\bin\Debug\13.BitChecks.pdb
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\13.BitChecks\obj\Debug\13.BitChecks.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\13.BitChecks\obj\Debug\13.BitChecks.pdb

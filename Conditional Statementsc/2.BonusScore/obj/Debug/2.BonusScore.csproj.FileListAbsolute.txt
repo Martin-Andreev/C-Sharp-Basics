@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\Conditional Statementsc\2.BonusScore\bin\Debug\2.BonusScore.exe
+D:\Other\Soft Uni\Homework\Conditional Statementsc\2.BonusScore\bin\Debug\2.BonusScore.pdb
+D:\Other\Soft Uni\Homework\Conditional Statementsc\2.BonusScore\obj\Debug\2.BonusScore.exe
+D:\Other\Soft Uni\Homework\Conditional Statementsc\2.BonusScore\obj\Debug\2.BonusScore.pdb

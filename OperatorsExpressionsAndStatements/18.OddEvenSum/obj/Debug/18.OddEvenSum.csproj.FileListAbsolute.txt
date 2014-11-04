@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\18.OddEvenSum\bin\Debug\18.OddEvenSum.exe.config
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\18.OddEvenSum\bin\Debug\18.OddEvenSum.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\18.OddEvenSum\bin\Debug\18.OddEvenSum.pdb
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\18.OddEvenSum\obj\Debug\18.OddEvenSum.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\18.OddEvenSum\obj\Debug\18.OddEvenSum.pdb

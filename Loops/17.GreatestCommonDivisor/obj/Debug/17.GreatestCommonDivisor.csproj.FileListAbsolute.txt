@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\Loops\17.GreatestCommonDivisor\bin\Debug\17.GreatestCommonDivisor.exe
+D:\Other\Soft Uni\Homework\Loops\17.GreatestCommonDivisor\bin\Debug\17.GreatestCommonDivisor.pdb
+D:\Other\Soft Uni\Homework\Loops\17.GreatestCommonDivisor\obj\Debug\17.GreatestCommonDivisor.exe
+D:\Other\Soft Uni\Homework\Loops\17.GreatestCommonDivisor\obj\Debug\17.GreatestCommonDivisor.pdb

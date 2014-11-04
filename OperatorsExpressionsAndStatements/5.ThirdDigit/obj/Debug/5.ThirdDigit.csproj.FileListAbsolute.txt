@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\5.ThirdDigit\bin\Debug\5.ThirdDigit.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\5.ThirdDigit\bin\Debug\5.ThirdDigit.pdb
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\5.ThirdDigit\obj\Debug\5.ThirdDigit.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\5.ThirdDigit\obj\Debug\5.ThirdDigit.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\5.ThirdDigit\obj\Debug\5.ThirdDigit.pdb

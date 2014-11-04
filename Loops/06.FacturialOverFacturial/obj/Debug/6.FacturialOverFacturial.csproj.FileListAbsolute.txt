@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\Loops\06.FacturialOverFacturial\obj\Debug\06.FacturialOverFacturial.exe
+D:\Other\Soft Uni\Homework\Loops\06.FacturialOverFacturial\obj\Debug\06.FacturialOverFacturial.pdb
+D:\Other\Soft Uni\Homework\Loops\06.FacturialOverFacturial\bin\Debug\06.FacturialOverFacturial.exe
+D:\Other\Soft Uni\Homework\Loops\06.FacturialOverFacturial\bin\Debug\06.FacturialOverFacturial.pdb
+D:\Other\Soft Uni\Homework\Loops\06.FacturialOverFacturial\obj\Debug\6.FacturialOverFacturial.csprojResolveAssemblyReference.cache

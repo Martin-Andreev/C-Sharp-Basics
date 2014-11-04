@@ -1,0 +1,2 @@
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\PrintVariables\obj\Debug\PrintVariables.exe
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\PrintVariables\obj\Debug\PrintVariables.pdb

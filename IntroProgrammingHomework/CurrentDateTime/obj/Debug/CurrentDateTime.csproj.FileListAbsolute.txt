@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\CurrentDateTime\bin\Debug\CurrentDateTime.exe
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\CurrentDateTime\bin\Debug\CurrentDateTime.pdb
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\CurrentDateTime\obj\Debug\CurrentDateTime.exe
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\CurrentDateTime\obj\Debug\CurrentDateTime.pdb

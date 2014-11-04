@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\8.PrimeNumber\bin\Debug\8.PrimeNumber.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\8.PrimeNumber\bin\Debug\8.PrimeNumber.pdb
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\8.PrimeNumber\obj\Debug\8.PrimeNumber.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\8.PrimeNumber\obj\Debug\8.PrimeNumber.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\8.PrimeNumber\obj\Debug\8.PrimeNumber.pdb

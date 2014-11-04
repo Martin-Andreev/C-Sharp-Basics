@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\2.MoonGravitation\bin\Debug\2.MoonGravitation.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\2.MoonGravitation\bin\Debug\2.MoonGravitation.pdb
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\2.MoonGravitation\obj\Debug\2.MoonGravitation.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\2.MoonGravitation\obj\Debug\2.MoonGravitation.pdb

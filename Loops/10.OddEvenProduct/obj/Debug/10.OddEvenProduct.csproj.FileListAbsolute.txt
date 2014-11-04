@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\Loops\10.OddEvenProduct\bin\Debug\10.OddEvenProduct.exe
+D:\Other\Soft Uni\Homework\Loops\10.OddEvenProduct\bin\Debug\10.OddEvenProduct.pdb
+D:\Other\Soft Uni\Homework\Loops\10.OddEvenProduct\obj\Debug\10.OddEvenProduct.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\Loops\10.OddEvenProduct\obj\Debug\10.OddEvenProduct.exe
+D:\Other\Soft Uni\Homework\Loops\10.OddEvenProduct\obj\Debug\10.OddEvenProduct.pdb

@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\12.CountOfNames\bin\Debug\12.CountOfNames.exe
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\12.CountOfNames\bin\Debug\12.CountOfNames.pdb
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\12.CountOfNames\obj\Debug\12.CountOfNames.exe
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\12.CountOfNames\obj\Debug\12.CountOfNames.pdb
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\12.CountOfNames\obj\Debug\12.CountOfNames.csprojResolveAssemblyReference.cache

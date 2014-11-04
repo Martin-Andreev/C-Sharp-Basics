@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\4.RectangleArea\bin\Debug\4.RectangleArea.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\4.RectangleArea\bin\Debug\4.RectangleArea.pdb
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\4.RectangleArea\obj\Debug\4.RectangleArea.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\4.RectangleArea\obj\Debug\4.RectangleArea.pdb

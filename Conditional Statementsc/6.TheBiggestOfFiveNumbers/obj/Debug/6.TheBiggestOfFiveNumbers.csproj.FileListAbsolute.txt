@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\Conditional Statementsc\6.TheBiggestOfFiveNumbers\bin\Debug\6.TheBiggestOfFiveNumbers.exe
+D:\Other\Soft Uni\Homework\Conditional Statementsc\6.TheBiggestOfFiveNumbers\bin\Debug\6.TheBiggestOfFiveNumbers.pdb
+D:\Other\Soft Uni\Homework\Conditional Statementsc\6.TheBiggestOfFiveNumbers\obj\Debug\6.TheBiggestOfFiveNumbers.exe
+D:\Other\Soft Uni\Homework\Conditional Statementsc\6.TheBiggestOfFiveNumbers\obj\Debug\6.TheBiggestOfFiveNumbers.pdb

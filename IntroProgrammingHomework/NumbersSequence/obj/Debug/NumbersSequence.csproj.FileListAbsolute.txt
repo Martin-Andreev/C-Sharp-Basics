@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\NumbersSequence\bin\Debug\NumbersSequence.exe
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\NumbersSequence\bin\Debug\NumbersSequence.pdb
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\NumbersSequence\obj\Debug\NumbersSequence.exe
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\NumbersSequence\obj\Debug\NumbersSequence.pdb

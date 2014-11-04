@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\Loops\1.Numbers1ToN\bin\Debug\1.Numbers1ToN.exe
+D:\Other\Soft Uni\Homework\Loops\1.Numbers1ToN\bin\Debug\1.Numbers1ToN.pdb
+D:\Other\Soft Uni\Homework\Loops\1.Numbers1ToN\obj\Debug\1.Numbers1ToN.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\Loops\1.Numbers1ToN\obj\Debug\1.Numbers1ToN.exe
+D:\Other\Soft Uni\Homework\Loops\1.Numbers1ToN\obj\Debug\1.Numbers1ToN.pdb

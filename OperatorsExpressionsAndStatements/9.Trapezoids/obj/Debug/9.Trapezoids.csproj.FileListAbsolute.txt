@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\9.Trapezoids\bin\Debug\9.Trapezoids.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\9.Trapezoids\bin\Debug\9.Trapezoids.pdb
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\9.Trapezoids\obj\Debug\9.Trapezoids.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\9.Trapezoids\obj\Debug\9.Trapezoids.pdb

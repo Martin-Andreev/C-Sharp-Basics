@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\10.JoinLists\bin\Debug\10.JoinLists.exe
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\10.JoinLists\bin\Debug\10.JoinLists.pdb
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\10.JoinLists\obj\Debug\10.JoinLists.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\10.JoinLists\obj\Debug\10.JoinLists.exe
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\10.JoinLists\obj\Debug\10.JoinLists.pdb

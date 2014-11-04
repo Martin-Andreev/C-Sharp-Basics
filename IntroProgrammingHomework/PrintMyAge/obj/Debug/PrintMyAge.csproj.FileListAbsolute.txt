@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\PrintMyAge\bin\Debug\PrintMyAge.exe.config
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\PrintMyAge\bin\Debug\PrintMyAge.exe
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\PrintMyAge\bin\Debug\PrintMyAge.pdb
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\PrintMyAge\obj\Debug\PrintMyAge.exe
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\PrintMyAge\obj\Debug\PrintMyAge.pdb

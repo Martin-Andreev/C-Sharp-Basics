@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\Loops\5.Calculations\bin\Debug\5.Calculations.exe
+D:\Other\Soft Uni\Homework\Loops\5.Calculations\bin\Debug\5.Calculations.pdb
+D:\Other\Soft Uni\Homework\Loops\5.Calculations\obj\Debug\5.Calculations.exe
+D:\Other\Soft Uni\Homework\Loops\5.Calculations\obj\Debug\5.Calculations.pdb

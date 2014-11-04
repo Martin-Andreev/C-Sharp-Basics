@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\09.RemoveNames\bin\Debug\09.RemoveNames.exe
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\09.RemoveNames\bin\Debug\09.RemoveNames.pdb
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\09.RemoveNames\obj\Debug\09.RemoveNames.exe
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\09.RemoveNames\obj\Debug\09.RemoveNames.pdb

@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\9.SumOfNNumbers\bin\Debug\9.SumOfNNumbers.exe
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\9.SumOfNNumbers\bin\Debug\9.SumOfNNumbers.pdb
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\9.SumOfNNumbers\obj\Debug\9.SumOfNNumbers.exe
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\9.SumOfNNumbers\obj\Debug\9.SumOfNNumbers.pdb

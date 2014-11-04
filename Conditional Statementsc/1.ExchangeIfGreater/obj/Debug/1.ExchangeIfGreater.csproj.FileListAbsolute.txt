@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\Conditional Statementsc\1.ExchangeIfGreater\bin\Debug\1.ExchangeIfGreater.exe
+D:\Other\Soft Uni\Homework\Conditional Statementsc\1.ExchangeIfGreater\bin\Debug\1.ExchangeIfGreater.pdb
+D:\Other\Soft Uni\Homework\Conditional Statementsc\1.ExchangeIfGreater\obj\Debug\1.ExchangeIfGreater.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\Conditional Statementsc\1.ExchangeIfGreater\obj\Debug\1.ExchangeIfGreater.exe
+D:\Other\Soft Uni\Homework\Conditional Statementsc\1.ExchangeIfGreater\obj\Debug\1.ExchangeIfGreater.pdb

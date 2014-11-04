@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\02.PrimeChecker\bin\Debug\02.PrimeChecker.pdb
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\02.PrimeChecker\obj\Debug\02.PrimeChecker.exe
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\02.PrimeChecker\obj\Debug\02.PrimeChecker.pdb

@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\Conditional Statementsc\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.exe
+D:\Other\Soft Uni\Homework\Conditional Statementsc\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.pdb
+D:\Other\Soft Uni\Homework\Conditional Statementsc\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\Conditional Statementsc\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.exe
+D:\Other\Soft Uni\Homework\Conditional Statementsc\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.pdb

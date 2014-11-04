@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\Loops\12.NumbersRandomize\bin\Debug\12.NumbersRandomize.exe
+D:\Other\Soft Uni\Homework\Loops\12.NumbersRandomize\bin\Debug\12.NumbersRandomize.pdb
+D:\Other\Soft Uni\Homework\Loops\12.NumbersRandomize\obj\Debug\12.NumbersRandomize.exe
+D:\Other\Soft Uni\Homework\Loops\12.NumbersRandomize\obj\Debug\12.NumbersRandomize.pdb
+D:\Other\Soft Uni\Homework\Loops\12.NumbersRandomize\obj\Debug\12.NumbersRandomize.csprojResolveAssemblyReference.cache

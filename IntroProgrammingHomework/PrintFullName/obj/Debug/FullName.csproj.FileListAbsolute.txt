@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\PrintFullName\bin\Debug\PrintFullName.exe
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\PrintFullName\bin\Debug\PrintFullName.pdb
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\PrintFullName\obj\Debug\PrintFullName.exe
+D:\Other\Soft Uni\Homework\IntroProgrammingHomework\PrintFullName\obj\Debug\PrintFullName.pdb

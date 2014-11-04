@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\15.ASCIITable\bin\Debug\15.ASCIITable.exe
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\15.ASCIITable\bin\Debug\15.ASCIITable.pdb
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\15.ASCIITable\obj\Debug\15.ASCIITable.exe
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\15.ASCIITable\obj\Debug\15.ASCIITable.pdb
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\15.ASCIITable\obj\Debug\14.ASCIITable.csprojResolveAssemblyReference.cache

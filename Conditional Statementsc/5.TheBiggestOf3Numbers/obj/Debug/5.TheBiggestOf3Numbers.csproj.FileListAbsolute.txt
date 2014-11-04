@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\Conditional Statementsc\5.TheBiggestOf3Numbers\bin\Debug\5.TheBiggestOf3Numbers.exe
+D:\Other\Soft Uni\Homework\Conditional Statementsc\5.TheBiggestOf3Numbers\bin\Debug\5.TheBiggestOf3Numbers.pdb
+D:\Other\Soft Uni\Homework\Conditional Statementsc\5.TheBiggestOf3Numbers\obj\Debug\5.TheBiggestOf3Numbers.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\Conditional Statementsc\5.TheBiggestOf3Numbers\obj\Debug\5.TheBiggestOf3Numbers.exe
+D:\Other\Soft Uni\Homework\Conditional Statementsc\5.TheBiggestOf3Numbers\obj\Debug\5.TheBiggestOf3Numbers.pdb

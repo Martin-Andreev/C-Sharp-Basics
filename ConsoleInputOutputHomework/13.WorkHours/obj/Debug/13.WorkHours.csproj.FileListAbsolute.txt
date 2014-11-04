@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\13.WorkHours\bin\Debug\13.WorkHours.exe.config
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\13.WorkHours\bin\Debug\13.WorkHours.exe
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\13.WorkHours\bin\Debug\13.WorkHours.pdb
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\13.WorkHours\obj\Debug\13.WorkHours.exe
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\13.WorkHours\obj\Debug\13.WorkHours.pdb

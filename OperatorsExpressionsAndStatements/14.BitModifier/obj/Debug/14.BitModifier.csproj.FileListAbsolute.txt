@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\14.BitModifier\bin\Debug\14.BitModifier.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\14.BitModifier\bin\Debug\14.BitModifier.pdb
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\14.BitModifier\obj\Debug\14.BitModifier.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\14.BitModifier\obj\Debug\14.BitModifier.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\14.BitModifier\obj\Debug\14.BitModifier.pdb

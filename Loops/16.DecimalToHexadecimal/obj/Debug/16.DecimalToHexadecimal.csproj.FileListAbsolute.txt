@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\Loops\16.DecimalToHexadecimal\bin\Debug\16.DecimalToHexadecimal.exe
+D:\Other\Soft Uni\Homework\Loops\16.DecimalToHexadecimal\bin\Debug\16.DecimalToHexadecimal.pdb
+D:\Other\Soft Uni\Homework\Loops\16.DecimalToHexadecimal\obj\Debug\16.DecimalToHexadecimal.exe
+D:\Other\Soft Uni\Homework\Loops\16.DecimalToHexadecimal\obj\Debug\16.DecimalToHexadecimal.pdb
+D:\Other\Soft Uni\Homework\Loops\16.DecimalToHexadecimal\obj\Debug\16.DecimalToHexadecimal.csprojResolveAssemblyReference.cache

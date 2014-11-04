@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\17.Volleyball\bin\Debug\17.Volleyball.exe.config
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\17.Volleyball\bin\Debug\17.Volleyball.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\17.Volleyball\bin\Debug\17.Volleyball.pdb
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\17.Volleyball\obj\Debug\17.Volleyball.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\17.Volleyball\obj\Debug\17.Volleyball.pdb

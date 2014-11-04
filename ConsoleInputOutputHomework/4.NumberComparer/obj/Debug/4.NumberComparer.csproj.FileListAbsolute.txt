@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\4.NumberComparer\bin\Debug\4.NumberComparer.exe
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\4.NumberComparer\bin\Debug\4.NumberComparer.pdb
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\4.NumberComparer\obj\Debug\4.NumberComparer.exe
+D:\Other\Soft Uni\Homework\ConsoleInputOutputHomework\4.NumberComparer\obj\Debug\4.NumberComparer.pdb

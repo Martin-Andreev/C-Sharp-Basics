@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\11.ExtractThirdBit\bin\Debug\11.ExtractThirdBit.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\11.ExtractThirdBit\bin\Debug\11.ExtractThirdBit.pdb
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\11.ExtractThirdBit\obj\Debug\11.ExtractThirdBit.exe
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\11.ExtractThirdBit\obj\Debug\11.ExtractThirdBit.pdb
+D:\Other\Soft Uni\Homework\OperatorsExpressionsAndStatements\11.ExtractThirdBit\obj\Debug\11.ExtractThirdBit.csprojResolveAssemblyReference.cache

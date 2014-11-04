@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\Loops\18.TrailingZeroes\bin\Debug\18.TrailingZeroes.exe
+D:\Other\Soft Uni\Homework\Loops\18.TrailingZeroes\bin\Debug\18.TrailingZeroes.pdb
+D:\Other\Soft Uni\Homework\Loops\18.TrailingZeroes\obj\Debug\18.TrailingZeroes.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\Loops\18.TrailingZeroes\obj\Debug\18.TrailingZeroes.exe
+D:\Other\Soft Uni\Homework\Loops\18.TrailingZeroes\obj\Debug\18.TrailingZeroes.pdb

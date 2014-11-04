@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\HexadecimalFormat\bin\Debug\HexadecimalFormat.pdb
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\HexadecimalFormat\obj\Debug\HexadecimalFormat.exe
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\HexadecimalFormat\obj\Debug\HexadecimalFormat.pdb

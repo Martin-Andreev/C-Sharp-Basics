@@ -1,0 +1,2 @@
+D:\Other\Soft Uni\Homework\Loops\8.CatalanNumbers\obj\Debug\8.CatalanNumbers.exe
+D:\Other\Soft Uni\Homework\Loops\8.CatalanNumbers\obj\Debug\8.CatalanNumbers.pdb

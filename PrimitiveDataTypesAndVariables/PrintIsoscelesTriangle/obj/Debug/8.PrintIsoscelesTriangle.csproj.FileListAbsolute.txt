@@ -1,0 +1,2 @@
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\PrintIsoscelesTriangle\obj\Debug\PrintIsoscelesTriangle.exe
+D:\Other\Soft Uni\Homework\PrimitiveDataTypesAndVariables\PrintIsoscelesTriangle\obj\Debug\PrintIsoscelesTriangle.pdb

@@ -1,0 +1,4 @@
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\4.DifferenceBetweenDates\bin\Debug\4.DifferenceBetweenDates.exe
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\4.DifferenceBetweenDates\bin\Debug\4.DifferenceBetweenDates.pdb
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\4.DifferenceBetweenDates\obj\Debug\4.DifferenceBetweenDates.exe
+D:\Other\Soft Uni\Homework\CSharpAdvancedTopics\4.DifferenceBetweenDates\obj\Debug\4.DifferenceBetweenDates.pdb

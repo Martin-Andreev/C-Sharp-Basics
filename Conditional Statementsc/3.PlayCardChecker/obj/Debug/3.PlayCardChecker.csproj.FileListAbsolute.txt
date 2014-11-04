@@ -1,0 +1,5 @@
+D:\Other\Soft Uni\Homework\Conditional Statementsc\3.PlayCardChecker\bin\Debug\3.PlayCardChecker.exe
+D:\Other\Soft Uni\Homework\Conditional Statementsc\3.PlayCardChecker\bin\Debug\3.PlayCardChecker.pdb
+D:\Other\Soft Uni\Homework\Conditional Statementsc\3.PlayCardChecker\obj\Debug\3.PlayCardChecker.csprojResolveAssemblyReference.cache
+D:\Other\Soft Uni\Homework\Conditional Statementsc\3.PlayCardChecker\obj\Debug\3.PlayCardChecker.exe
+D:\Other\Soft Uni\Homework\Conditional Statementsc\3.PlayCardChecker\obj\Debug\3.PlayCardChecker.pdb
